@@ -1,12 +1,3 @@
-'''
-*CSci5512 Spring'16 Homework 3
-*login: subra174
-*date: 04/14/16
-*name: Arjun Subrahmanyan
-*id: 5217513
-*algorithm: likelihood weighting 
-'''
-
 import sys
 import random
 
